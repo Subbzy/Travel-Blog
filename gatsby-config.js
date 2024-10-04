@@ -1,5 +1,5 @@
 /**
- * Configure your Gatsby site with this file.
+ * Configure your Gatsby site with this file. Eyooooooooo.
  *
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
  */
@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Tom's travel blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Tommy Lawler`,
+      summary: `who balls for a living.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -114,7 +114,7 @@ module.exports = {
         short_name: `Gatsby`,
         start_url: `/`,
         background_color: `#ffffff`,
-        // This will impact how browsers show your PWA/website
+        // This will impact how browsers show your PWA/website init
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
